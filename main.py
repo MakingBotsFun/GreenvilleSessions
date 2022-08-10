@@ -11,9 +11,7 @@ import datetime
 from nextcord.abc import GuildChannel
 import datetime
 from nextcord.ext import application_checks
-import keep_alive
 import random
-keep_alive.keep_alive()
 
 client = nextcord.Client()
 
