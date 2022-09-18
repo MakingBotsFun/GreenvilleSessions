@@ -2,7 +2,6 @@ import nextcord
 from nextcord.ext import commands
 from nextcord import Interaction, SlashOption, ChannelType
 import json
-import json
 from pathlib import Path
 from typing import Optional
 import platform
